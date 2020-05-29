@@ -1,0 +1,21 @@
+p {
+	margin:0px; 
+	font-size: 12pt; 
+	font-family:Times;
+}
+p.recuo{
+	margin-left:120px;
+	text-align:justify;
+} 
+.titulos{
+	width:99%;
+	border:1px solid #000000;
+	font-weight:bold;
+	font-family:Times;
+	font-size: 12pt;
+	text-align:center;
+	position:relative;
+}
+span.tabs{
+	margin-left:60px
+}

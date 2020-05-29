@@ -1,0 +1,11 @@
+11/08/17 11:42:50 : Cannot connect to SMTP server 200.98.199.2 (200.98.199.2:25), connect error 10060<EOL>
+11/08/17 11:42:50 : Socket Error # 11001<EOL>Host not found.
+11/08/17 11:53:49 : Socket Error # 11001<EOL>Host not found.
+11/08/17 12:04:41 : Socket Error # 11001<EOL>Host not found.
+11/08/17 12:05:14 : Socket Error # 11001<EOL>Host not found.
+11/08/17 12:10:08 : Socket Error # 11001<EOL>Host not found.
+11/08/17 12:12:27 : Socket Error # 11001<EOL>Host not found.
+11/08/17 12:45:55 : Connection Closed Gracefully.
+11/08/17 12:53:55 : Socket Error # 11001<EOL>Host not found.
+11/08/17 16:44:49 : Socket Error # 11001<EOL>Host not found.
+11/09/07 11:10:27 : Socket Error # 11001<EOL>Host not found.

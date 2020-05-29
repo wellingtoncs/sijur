@@ -1,0 +1,18 @@
+Aug 12 14:59:45 127.0.0.1 (pid 1504) intro: start
+Aug 12 14:59:45 127.0.0.1 (pid 1504) intro: end
+Aug 12 14:59:50 127.0.0.1 (pid 1504) intro: start
+Aug 12 14:59:50 127.0.0.1 (pid 1504) intro: end
+Aug 12 14:59:51 127.0.0.1 (pid 1504) intro: start
+Aug 12 14:59:51 127.0.0.1 (pid 1504) intro: end
+Aug 12 14:59:51 127.0.0.1 (pid 1504) intro: start
+Aug 12 14:59:51 127.0.0.1 (pid 1504) intro: end
+Aug 12 15:00:55 127.0.0.1 (pid 1504) 1: start
+Aug 12 15:01:08 127.0.0.1 (pid 1504) 2: start
+Aug 12 15:01:15 127.0.0.1 (pid 1504) Creating the database from scratch
+Aug 12 15:01:15 127.0.0.1 (pid 1504) creating the SQL tables
+Aug 12 15:01:18 127.0.0.1 (pid 1504) creating the tables used for relations between objects
+Aug 12 15:01:21 127.0.0.1 (pid 1504) Setting-up default LCM configuration
+Aug 12 15:01:29 127.0.0.1 (pid 1504) LCM database initialisation complete
+Aug 12 15:01:29 127.0.0.1 (pid 1504) DB creation complete
+Aug 12 15:01:34 127.0.0.1 (pid 1504) 4: start
+Aug 12 15:02:03 127.0.0.1 (pid 1504) 5: start

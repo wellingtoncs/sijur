@@ -1,0 +1,91 @@
+body {
+	background: url("../images/fundo.jpg") #FFFFFF;
+}
+
+h3 {
+	border: 1px solid #999999;
+	background: #315688;
+	padding: 5px;
+	color: #FFFFFF;
+	font-size:12pt;
+}
+
+.button_login, .fondl {
+	background-color: #DFE6F0;
+	border: 1px solid #B8C7DE;
+	color: #2D4E7B;
+	font-weight: bold;
+	margin-top: 10px;
+	font-size: 12px;
+}
+
+.lang_combo_box {
+	border: 1px dashed #CBDFF5;
+	margin-bottom: 10px;
+	padding: 10px 5px 5px 5px;
+	text-align: center;
+}
+
+a:link, a:visited, a:active {
+	text-decoration: none;
+	color: #00337f;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #00337f;
+}
+
+a.link_btn {
+	background: url("../images/lcm/lcm_right_arrow.gif") no-repeat left center;
+	padding-left: 7px;
+}
+
+#login_screen {
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+	width: 350px;
+}
+
+#login_table {
+	background: #FFFFFF;
+	border: 1px solid #2D4E7B;
+	width: 360px;
+	margin-top: 100px;
+}
+
+#login_main {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #2D4E7B;
+}
+
+.main_login_box {
+	border: 1px solid #999999;
+	padding: 30px;
+	font-size: 12px;
+	background-color: #fff;
+}
+
+/* input[type=text], input[type=password] { */
+.main_login_box input.forml, input.formo {
+	width: 60%; 
+	background-color: #DDE7F4;
+	border: 1px solid #999999;
+	color: #2D4E7B;
+	margin-left: 70px;
+	margin-top: -20px;
+	margin-bottom: 20px;
+	}
+
+/* This should be placed in some global CSS file */
+.box_warning {
+	border: 2px solid #ffff00;
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
